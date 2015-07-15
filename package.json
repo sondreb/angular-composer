@@ -1,0 +1,39 @@
+{
+  "name": "angular-composer",
+  "version": "0.0.1",
+  "description": "Node/Gulp package that simplifies your gulpfile for large scale Angular.js applications.",
+  "main": "angular-composer.js",
+  "files": [
+    "angular-composer.js"
+    ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sondreb/angular-composer.git"
+  },
+  "keywords": [
+    "angular",
+    "gulp",
+    "composer",
+    "large"
+  ],
+  
+  "author": {
+    "name": "Sondre Bjellås",
+    "email": "sondre@outlook.com",
+    "url": "sondreb.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sondreb/angular-composer/issues"
+  },
+  "homepage": "https://github.com/sondreb/angular-composer",
+  "dependencies": {
+    "gulp": "^3.0.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
